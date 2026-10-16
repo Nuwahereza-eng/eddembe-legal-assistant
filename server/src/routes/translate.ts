@@ -7,8 +7,15 @@ const bodySchema = z.object({
   target: z.enum(["lg", "en"]),
 });
 
-// Translations rarely change, so keep them for the life of the server.
+// Translations rarely change, so keep recent ones in memory. The cap stops the cache growing
+// without limit on a long-running server; the oldest entries are dropped first.
 const cache = new Map<string, string>();
+const MAX_CACHED = 2000;
+
+function remember(key: string, value: string) {
+  cache.set(key, value);
+  if (cache.size > MAX_CACHED) cache.delete(cache.keys().next().value!);
+}
 
 async function translateOne(text: string, target: "lg" | "en"): Promise<string> {
   if (!text.trim()) return text;
@@ -16,7 +23,7 @@ async function translateOne(text: string, target: "lg" | "en"): Promise<string> 
   const hit = cache.get(key);
   if (hit !== undefined) return hit;
   const out = target === "lg" ? await translate(text, "eng", "lug") : await translate(text, "lug", "eng");
-  cache.set(key, out || text);
+  remember(key, out || text);
   return out || text;
 }
 
