@@ -132,11 +132,6 @@ See [server/vercel.json](server/vercel.json).
 - Uploads over about 4.5 MB are refused by the hosting platform.
 - Eddembe gives legal information, not legal advice.
 
-## Inspiration
-
-Inspired by [NyayaMitra](https://github.com/abhishek220205-hash/NyayaMitra), an AI legal aid agent for
-Indian citizens. Eddembe is a separate project written from scratch for Uganda.
-
 ## License
 
 MIT © 2026 Nuwahereza Peter. The law texts in `data/laws/` keep their own licences.
