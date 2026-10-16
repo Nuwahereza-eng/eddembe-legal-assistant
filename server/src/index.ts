@@ -19,7 +19,9 @@ app.get("/api/health", async (_req, res) => {
     const { rows } = await pool.query("SELECT count(*)::int AS chunks FROM law_chunks");
     res.json({ ok: true, db: "up", law_chunks: rows[0].chunks, model: process.env.GEMMA_MODEL_ID ?? null });
   } catch (err) {
-    res.status(503).json({ ok: false, db: "down", error: (err as Error).message });
+    // Details go to the server log only; the public endpoint just reports the status.
+    console.error("health check failed:", (err as Error).message);
+    res.status(503).json({ ok: false, db: "down" });
   }
 });
 
