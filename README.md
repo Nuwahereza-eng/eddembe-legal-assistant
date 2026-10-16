@@ -1,4 +1,4 @@
-# Eddembe
+# Eddembe Legal Assistant
 
 **Eddembe** (Luganda for *rights* or *freedom*) is a Luganda-first legal rights assistant for Uganda,
 built on **Gemma 4** through the Gemini API.
