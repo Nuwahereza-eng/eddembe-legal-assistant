@@ -1,8 +1,8 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "installCommand": "npm ci && npm ci --prefix ../web",
-  "buildCommand": "npm run build --prefix ../web -- --outDir ../server/public --emptyOutDir",
+  "buildCommand": "npm run build --prefix ../web -- --outDir ../server/web-dist --emptyOutDir",
   "functions": {
-    "src/index.ts": { "maxDuration": 300 }
+    "src/index.ts": { "maxDuration": 300, "includeFiles": "web-dist/**" }
   }
 }

@@ -1,6 +1,8 @@
 import "./env.js";
 import express from "express";
 import cors from "cors";
+import { existsSync } from "node:fs";
+import { fileURLToPath } from "node:url";
 import { pool, initSchema } from "./db.js";
 import { askRouter } from "./routes/ask.js";
 import { documentRouter } from "./routes/document.js";
@@ -26,6 +28,14 @@ app.use("/api/document", documentRouter);
 app.use("/api/letter", letterRouter);
 app.use("/api/speech", speechRouter);
 app.use("/api/translate", translateRouter);
+
+// The built web app. On Vercel it is built into server/web-dist and bundled with this function
+// (see vercel.json); locally the Vite dev server serves the web app instead.
+const webDist = fileURLToPath(new URL("../web-dist/", import.meta.url));
+if (existsSync(webDist)) {
+  app.use(express.static(webDist, { maxAge: "1h", index: "index.html" }));
+  app.get(/^\/(?!api\/).*/, (_req, res) => res.sendFile("index.html", { root: webDist }));
+}
 
 app.use((err: Error, _req: express.Request, res: express.Response, _next: express.NextFunction) => {
   console.error(err);

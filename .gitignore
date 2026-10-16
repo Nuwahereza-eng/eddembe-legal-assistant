@@ -226,5 +226,5 @@ web/dist/
 .~lock.*#
 
 # Vercel: web build copied here at deploy time
-server/public/
+server/web-dist/
 .vercel
