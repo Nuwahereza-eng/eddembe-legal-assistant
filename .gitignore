@@ -224,3 +224,7 @@ web/dist/
 
 # Office lock files
 .~lock.*#
+
+# Vercel: web build copied here at deploy time
+server/public/
+.vercel

@@ -32,11 +32,16 @@ app.use((err: Error, _req: express.Request, res: express.Response, _next: expres
   res.status(500).json({ error: "Something went wrong. Please try again." });
 });
 
-const port = Number(process.env.PORT ?? 4100);
+// On Vercel the exported app runs as a serverless function and the schema is created by
+// `npm run ingest`. Locally we set up the schema and listen on a port.
+export default app;
 
-initSchema()
-  .then(() => app.listen(port, () => console.log(`Eddembe server on http://localhost:${port}`)))
-  .catch((err) => {
-    console.error("Could not set up the database. Is `docker-compose up -d` running?", err.message);
-    process.exit(1);
-  });
+if (!process.env.VERCEL) {
+  const port = Number(process.env.PORT ?? 4100);
+  initSchema()
+    .then(() => app.listen(port, () => console.log(`Eddembe server on http://localhost:${port}`)))
+    .catch((err) => {
+      console.error("Could not set up the database. Is `docker-compose up -d` running?", err.message);
+      process.exit(1);
+    });
+}

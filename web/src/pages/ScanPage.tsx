@@ -176,6 +176,11 @@ export default function ScanPage() {
   function choose(f: File | undefined) {
     if (!f) return;
     if (!kindOf(f)) return setError("Please choose a photo, a PDF or a Word (.docx) file.");
+    // Photos are shrunk before upload; PDF and Word files are sent as they are, and the
+    // hosting limit for one upload is about 4.5 MB.
+    if (kindOf(f) !== "image" && f.size > 4 * 1024 * 1024) {
+      return setError("This file is too big. Please use a file smaller than 4 MB, or take a photo of the page.");
+    }
     setFile(f);
     setResult(null);
     setError(null);
