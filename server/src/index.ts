@@ -9,8 +9,11 @@ import { documentRouter } from "./routes/document.js";
 import { letterRouter } from "./routes/letter.js";
 import { speechRouter } from "./routes/speech.js";
 import { translateRouter } from "./routes/translate.js";
+import { rateLimit } from "./services/rateLimit.js";
 
 const app = express();
+// Behind Vercel's proxy, so the visitor's address comes from X-Forwarded-For.
+app.set("trust proxy", true);
 app.use(cors());
 app.use(express.json({ limit: "1mb" }));
 
@@ -25,11 +28,15 @@ app.get("/api/health", async (_req, res) => {
   }
 });
 
-app.use("/api/ask", askRouter);
-app.use("/api/document", documentRouter);
-app.use("/api/letter", letterRouter);
-app.use("/api/speech", speechRouter);
-app.use("/api/translate", translateRouter);
+// Gemma calls are the expensive ones; translations are cheap and requested often by the UI.
+const aiLimit = rateLimit({ max: 30, windowMs: 10 * 60 * 1000 });
+const translateLimit = rateLimit({ max: 300, windowMs: 10 * 60 * 1000 });
+
+app.use("/api/ask", aiLimit, askRouter);
+app.use("/api/document", aiLimit, documentRouter);
+app.use("/api/letter", aiLimit, letterRouter);
+app.use("/api/speech", aiLimit, speechRouter);
+app.use("/api/translate", translateLimit, translateRouter);
 
 // The built web app. On Vercel it is built into server/web-dist and bundled with this function
 // (see vercel.json); locally the Vite dev server serves the web app instead.
