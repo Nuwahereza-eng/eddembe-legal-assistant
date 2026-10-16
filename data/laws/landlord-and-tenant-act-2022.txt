@@ -1,0 +1,744 @@
+[Act 9/2022]
+
+                                             Part I – Preliminary
+
+  1. Application of Act
+        (1)    This Act applies to the letting of residential and business premises.
+
+        (2)    The Minister may, by statutory instrument, with the approval of Parliament, exempt particular
+               premises from the operation of the Act.
+
+        (3)    Without limiting the general effect of subsection (2), this Act does not apply to the following
+               arrangements—
+
+                (a) residence at an institution, whether public or private, where the residence is merely
+                    incidental to detention or to the provision of medical, religious, educational, recreational or
+                    similar services;
+
+                (b)   residence in a hotel, motel, or other transient lodging; or
+
+                (c)   occupancy of premises under a tenancy created or arising under the terms of a contract of
+                      employment or any premises entered into in relation to such a contract.
+
+  2. Interpretation
+        (1)    In this Act unless the context otherwise requires—
+
+               “annoyance” in relation to a tenancy, means the unwarranted, unreasonable, offensive or unlawful
+               interference in the use or enjoyment of rented premises;
+
+               “assignment” means the transfer of the rights or interest in the tenancy from one person to
+               another;
+
+               “business” includes trade, profession or employment and includes any activity carried on by a body
+               of persons; whether corporate or unincorporate;
+
+               “business premises” in relation to a tenancy, means premises occupied by the tenant for the
+               purposes of a business carried on by the tenant;
+
+               “court” means a court of competent jurisdiction and includes local council courts;
+
+              “currency point” has the value assigned to it in Schedule 1 to this Act;
+
+              “landlord” means a person who lets premises under a tenancy and includes the duly authorised
+              agent of the landlord or a person who is in lawful possession of the premises and has the right to let
+              them;
+
+              “lease” includes a sublease;
+
+              “Minister” means the Minister responsible for housing;
+
+              “premises” means business or residential premises to which this Act applies;
+
+              “rent” in relation to a tenancy, means the amount paid to a landlord by a tenant to occupy premises
+              and use facilities and services;
+
+              “rented premises” in relation to a tenancy to which this Act applies, means business or residential
+              premises let under the tenancy;
+
+              “residential premises” means—
+
+               (a) premises which are used solely as a home, residence, sleeping place by a tenant and includes
+                   housing estates, tenements, apartment buildings, mobile homes;
+
+               (b)   mixed-use premises which are used simultaneously for both residential purposes and to
+                     carry out a home-based business;
+
+              “services” in relation to a tenancy, means the use of water, light or power, conservancy, sewerage
+              facilities, sweepers, watchmen, telephone or other amenities or facilities available to the tenant
+              except—
+
+               (a) the supplying of means, and the right of access to any place or accommodation accorded to
+                   the tenant by reason of the tenant’s occupation of the premises comprised in the tenancy;
+
+               (b)   capital expenditure on maintenance;
+
+              “tenancy” means a relationship created by a lease, agreement or assignment and includes a sub-
+              tenancy but does not include a relationship between a mortgagor and mortgagee;
+
+              “tenancy agreement” means an agreement, in writing or otherwise, express or implied, under
+              which a tenancy is created;
+
+              “tenant” means the person to whom premises are let under a tenancy;
+
+              “utilities” includes water, light or power, conservancy, sewerage facilities, sweepers, watchmen,
+              telephone or other amenities or facilities available to the tenant.
+
+        (2)   Notwithstanding anything in any other written law requiring the registration of tenancies, evidence
+              of a tenancy may, for any of the purposes of this Act, be given in court, whether the tenancy is
+              registered or not.
+
+                                      Part II – Tenancy agreements
+
+ 3. Making of tenancy agreements
+        (1)   A tenancy agreement may be—
+
+               (a) made in writing;
+
+               (b)   by word of mouth;
+
+               (c)   partly in writing and partly by word of mouth;
+
+               (d)   in the form of a data message; or
+
+               (e)   implied from the conduct of the parties,
+
+              provided that where the parties execute a tenancy agreement, the landlord tenant relationship
+              between the parties shall be governed by the terms of the tenancy.
+
+        (2)   A tenancy agreement in writing shall be in the form prescribed in Schedule 2 to this Act, except that
+              the parties may make any modification to the prescribed form.
+
+        (3)   Where a tenancy agreement is not in writing, the landlord shall keep a record—
+
+               (a) of the particulars of the parties to the tenancy;
+
+               (b)   of the premises comprised in the tenancy;
+
+               (c)   in the case of a non-citizen, of the details of the immigration status of the non-citizen; and
+
+               (d)   of the details of the rent payable and the manner of payment.
+
+        (4)   The landlord shall give the tenant a copy of the record kept under subsection (3) within fourteen
+              days of the tenant taking vacant possession of the premises.
+
+        (5)   A landlord shall not enter into a tenancy agreement—
+
+               (a) with an individual, unless the individual provides his or her national identification card or
+                   alien’s identification card, or any other identification document; or
+
+               (b)   with a legal person, unless that person provides details of registration or other form of
+                     incorporation.
+
+        (6)   For the purposes of this section, “other identification document” includes a driving permit,
+              passport or certified student identification card.
+
+        (7)   This section shall not affect a tenancy agreement entered into under any other law requiring a
+              tenancy agreement to be made in a specific manner.
+
+ 4. Tenancy agreement of twenty-five currency points or more to be in writing
+      A tenancy agreement of the value of twenty-five currency points or more shall not be enforceable by
+      action unless—
+
+        (a) the agreement is in writing or in form of a data message; or
+
+       (b)    the party against whom enforcement is sought admits that the agreement was entered into.
+
+ 5. Landlord to give tenant copy of tenancy agreement
+      A landlord shall, immediately after a tenancy agreement is signed by the landlord and tenant, give a copy
+      of the tenancy agreement to the tenant.
+
+                             Part III – Terms and conditions in tenancy
+
+                                      Fitness for human habitation
+
+ 6. Implied term as to fitness for human habitation
+        (1)   Where a tenancy is for the letting of residential premises there is implied—
+
+               (a) a condition that the premises are fit for human habitation at the commencement of the
+                   tenancy; and
+
+               (b)   an undertaking that the exterior of the premises and common areas shall be kept by the
+                     landlord, fit for human habitation, during the tenancy.
+
+        (2)   Premises are not fit for human habitation under subsection (1) where the premises do not meet the
+              requirements of the Public Health Act or the Building Control Act.
+
+        (3)   Without limiting the general effect of subsection (1), in determining whether premises are fit
+              for human habitation, regard shall be given to the condition of the premises in respect of repair,
+              stability, internal arrangements, natural lighting, ventilation, water supply, drainage and sanitary
+              conveniences and facilities for preparation and cooking of food and for the disposal of waste water.
+
+        (4)   Except in case of an emergency, a landlord may, at reasonable times of the day after giving twenty-
+              four hours’ notice in writing or otherwise to the tenant, enter premises for the purpose of viewing
+              their state and condition.
+
+                                           Repairing obligations
+
+  7. Duty to keep premises in repair
+        (1)   Subject to section 8, there is implied in every tenancy a term that the landlord shall keep the
+              premises maintained in good repair save that the obligation shall extend to the exterior parts of the
+              premises and common areas.
+
+        (2)   In determining the standard of good repair under subsection (1), regard shall be had to the age,
+              character and prospective life of the premises and the locality in which the premises are situated.
+
+ 8. Exception to duty of landlord to repair premises
+        (1)   The duty of the landlord to maintain the premises in good repair does not apply to repair of damage
+              caused to the premises by the tenant’s negligence or failure to take reasonable care.
+
+        (2)   Where a tenant damages the premises or common areas, the landlord shall serve the tenant with a
+              notice to repair the damage.
+
+        (3)   The notice under subsection (2) shall be in the form prescribed by the Minister by regulations.
+
+        (4)   Except in the case of any emergency, where the landlord gives the tenant notice to repair under this
+              section and the tenant does not repair the damage within fourteen days after the notice is given,
+              the landlord may repair the damage at the expense of the tenant.
+
+        (5)   After the landlord has effected repairs to the premises under subsection (4), the landlord shall
+              serve the tenant with particulars of the cost of the repairs including the relevant supporting
+              documentation to evidence the cost of the repairs.
+
+        (6)   The tenant shall reimburse the landlord within a period of fourteen days after the notification by
+              the landlord or the costs of the repairs may be deducted from any rent advance received by the
+              landlord.
+
+ 9. Circumstances where tenant may repair premises
+        (1)   A tenant may carry out repairs to the premises where—
+
+               (a) the nature of the repairs required is urgent; or
+
+               (b)   the tenant has taken reasonable steps to arrange for the landlord to carry out repairs and the
+                     tenant is unable to get the landlord to carry out the repairs after serving the landlord with
+                     fourteen days’ notice of the need for and cost of repairs.
+
+        (2)   For the purposes of subsection (1), urgent repairs includes—
+
+               (a) repairs relating to burst water services;
+
+               (b)    blocked or broken toilet systems;
+
+               (c)    serious roof leaks;
+
+               (d)    gas leaks;
+
+               (e)    dangerous electrical faults;
+
+                (f) flooding or serious flood damage;
+
+               (g) serious storm or fire damage;
+
+               (h) failure or breakdown of any essential service or appliance provided by a landlord or agent for
+                   hot water, water, cooking, heating or laundry;
+
+                (i)   failure or breakdown of the gas, electricity or water supply;
+
+                (j) an appliance, fitting or fixture that is not working properly and causes a substantial amount
+                    of water to be wasted;
+
+               (k) a serious fault in a lift or staircase; or
+
+                (l)   any fault or damage in the premises that makes the premises unsafe or insecure.
+
+        (3)   Where the tenant carries out repairs under subsection (1), the tenant shall immediately, after
+              carrying out the repairs, give the landlord—
+
+               (a) written notice of the repairs carried out;
+
+               (b)    particulars of the costs incurred; and
+
+               (c)    relevant supporting documentation to evidence the costs of repair.
+
+        (4)   The costs of repair incurred by the tenant under this section shall be reasonable costs of repair at
+              the prevailing market rates.
+
+        (5)   The landlord shall, within fourteen days after receiving the notice, reimburse the tenant the costs of
+              the repair.
+
+        (6)   Where the landlord does not reimburse the tenant, the tenant shall recover the costs incurred for
+              the repairs from the rent due and payable immediately after the repairs are carried out.
+
+10. Landlord responsible for taxes and rates
+        (1)   There is implied in every tenancy a term that the landlord is responsible for the payment of all taxes
+              and rates imposed by law in respect of the premises.
+
+        (2)   Where a tenant pays any taxes or rates in respect of the premises, the landlord shall indemnify the
+              tenant for the amount paid by the tenant.
+
+11. Void terms and conditions in tenancy
+        (1)   Subject to section 3(1), a term in a tenancy, express or implied, is void where it purports to exclude,
+              restrict or modify, or has the effect of excluding, restricting or modifying any provision of this Act.
+
+        (2)   A term or condition in a written tenancy or any other agreement made under this Act that requires
+              a party to a written tenancy agreement to bear any fees, costs or charges incurred by the other party
+              in connection with the preparation of the tenancy agreement is void.
+
+                                  Part IV – Liability for utilities charges
+
+12. Utilities charges for which tenant is liable
+        (1)   A tenant is liable for all charges in respect of the supply or use of electricity, gas, oil and similar
+              services in respect of the occupation of the tenant of rented premises that are separately metered,
+              except the installation costs and charges in respect of the initial connection of the service to the
+              rented premises.
+
+        (2)   A tenant is liable for—
+
+               (a) the cost of all water supplied to the rented premises during the occupancy of the tenant,
+                   if the cost is based solely on the amount of water supplied and the premises are separately
+                   metered; or
+
+               (b)     that part of the charges based on the amount of water supplied to the premises during the
+                       occupation of the tenant if the cost of water supplied is only partly based on the amount of
+                       water supplied to the premises and the premises are not separately metered.
+
+        (3)   Notwithstanding subsections (1) and (2), a landlord may agree with the tenant to take over liability
+              for any costs or charges for which the tenant is liable under subsection (1) or (2).
+
+        (4)   An agreement under subsection (3) shall be in writing and signed by the landlord and tenant.
+
+13. Utilities charges for which landlord is liable
+        (1)   A landlord is liable for—
+
+               (a) the installation costs and charges in respect of the initial connection to rented premises of
+                   any electricity, water, gas, sanitation, sewerage or other utility service;
+
+               (b)     all charges in respect of the supply or use of electricity, gas or oil by the tenant at rented
+                       premises that are not separately metered;
+
+                (c)    all charges arising from a water supply service to separately metered rented premises that
+                       are not based on the amount of water supplied to the premises;
+
+               (d)     all costs and charges related to a water supply service to and water supplied to rented
+                       premises that are not separately metered; and
+
+               (e)     all charges related to the supply of sewerage services or the supply or use of the drainage
+                       services to or at the rented premises.
+
+        (2)   In the case of sewerage disposal charges, the landlord and tenant may agree on the contribution to
+              be made by the tenant.
+
+                      Part V – Duties and obligations of landlords and tenants
+
+14. Tenant not to use premises for unlawful purpose
+      A tenant shall not use the premises or permit the use of the rented premises for any unlawful purpose.
+
+15. Tenant not to cause nuisance or interference
+        (1)   A tenant shall not use the rented premises or permit the use of the rented premises in any manner
+              that causes a nuisance to any occupier of neighbouring premises.
+
+        (2)   A tenant shall not—
+
+               (a) use the rented premises or common areas;
+
+               (b)   permit his or her visitors to use the rented premises or common areas; or
+
+               (c)   otherwise permit the use of the rented premises,
+
+              in a manner that causes interference with the reasonable peace, comfort or privacy of any occupier
+              of neighbouring premises.
+
+        (3)   For the purposes of this section “nuisance” includes any activity, condition or situation that
+              interferes with another person’s use or enjoyment of the premises of that person.
+
+16. Tenant not to damage premises or common areas
+        (1)   A tenant shall take care not to damage the rented premises or the common areas.
+
+        (2)   A tenant who becomes aware of any damage to the rented premises or the common areas shall
+              immediately give notice to the landlord specifying the nature of the damage.
+
+17. Tenant to keep rented premises clean
+      A tenant shall keep the rented premises in a reasonably clean condition, except where the landlord is
+      responsible under the tenancy agreement for keeping of the premises in that condition.
+
+18. Tenant not to install fixtures or make alterations without consent
+        (1)   A tenant shall not, without the consent of the landlord, install any fixtures on the rented premises
+              or make any alteration, renovation or addition to the rented premises.
+
+        (2)   A tenant who has installed fixtures on or renovated, altered or added to the rented premises,
+              whether or not with the written consent of the landlord, shall before terminating the tenancy—
+
+               (a) restore the premises to the condition they were in immediately before the installation,
+                   renovation or addition; fair wear and tear excepted; or
+
+               (b)   pay to the landlord an amount equal to the reasonable cost of restoring the premises.
+
+        (3)   Subsection (2) does not apply where the tenancy agreement otherwise provides or where the
+              landlord and tenant otherwise agree.
+
+        (4)   For the purposes of this section, “fixture” means personal property of the tenant that is attached to
+              the premises or part of the premises so as to be regarded as an irremovable part of the premises.
+
+19. Landlord to ensure quiet enjoyment
+      A landlord shall take all reasonable steps to ensure that the tenant has quiet enjoyment of the premises
+      during the tenancy.
+
+20. Landlord not to refuse to rent on certain grounds
+      A landlord shall not refuse to rent premises to a person on the grounds of sex, race, colour, ethnic origin,
+      tribe, birth, creed or religion, social or economic standing, political opinion or disability.
+
+                                  Part VI – Rent and security deposit
+
+                                                        Rent
+
+21. Tenant to pay rent
+        (1)   A tenant shall pay rent on the date and in the manner agreed upon by the landlord and tenant.
+
+        (2)   The landlord shall issue a receipt upon payment of rent by the tenant.
+
+        (3)   The receipt issued in subsection (2) shall be in the form prescribed by regulations made by the
+              Minister.
+
+        (4)   A landlord letting out a business premise in a city or a municipality shall provide a tenant with the
+              number of the bank account of the landlord into which all rent payments may be deposited.
+
+22. Determination of rent under tenancy
+        (1)   The rent payable for any premises under a tenancy shall be determined by mutual agreement of the
+              parties to the tenancy.
+
+        (2)   Except where the parties otherwise agree in their tenancy agreement, all rent obligations or
+              transactions shall be expressed or settled in Uganda shillings.
+
+23. Accrual of rent
+      For the purposes of this Act, rent under a tenancy accrues from day to day and is recoverable or refundable
+      accordingly.
+
+24. Limit on rent in advance
+        (1)   Subject to subsection (2), a landlord shall not require a tenant—
+
+               (a) in the case of tenancy of more than one month, to pay rent more than three months in
+                   advance; or
+
+               (b)   in a case of tenancy of less than one month, to pay rent more than two weeks in advance.
+
+        (2)   Subsection (1) does not apply where the tenant and landlord mutually agree that the tenant pays
+              the rent beyond the period specified.
+
+25. Receipts for rent
+        (1)   A landlord who receives a payment of rent from a tenant shall »ive a written receipt to the person
+              making the payment—
+
+               (a) immediately, where the payment is made in person; or
+
+               (b)   where the payment is not made in person and a receipt is requested at the time of making
+                     the payment, within five working days of receiving the payment.
+
+        (2)   A receipt issued under subsection (1) shall be in the prescribed form and shall include, among
+              others, the amount of and period for which rent is paid.
+
+        (3)   A landlord shall keep a record of all receipts of payments of rent by the tenant.
+
+26. Increase of rent
+        (1)   Except where the parties otherwise agree in their tenancy agreement, a landlord shall not increase
+              rent at a rate of more than ten percent annually or such other percentage as may be prescribed by
+              the Minister, by statutory instrument.
+
+        (2)   A landlord shall give a tenant at least sixty days’ notice, in the prescribed form, of a proposed
+              increase in rent.
+
+        (3)   A landlord under a fixed term tenancy shall not increase the rent before the term ends, unless the
+              agreement provides for a rent increase within the fixed term.
+
+        (4)   A landlord shall not increase the rent payable under a tenancy at intervals of less than twelve
+              months.
+
+        (5)   An increase of rent is invalid if it contravenes this section.
+
+27. Rent increase to take effect if tenant does not object or negotiate
+      Where a tenant who does not object to a rent increase or reach an agreement with the landlord on the
+      increase to be effected and the rent increase is in accordance with this Act, the tenant is taken to have
+      accepted the rent increase.
+
+28. Decrease of rent in certain cases
+        (1)   A landlord shall decrease the rent charged to a tenant where the landlord ceases to provide any
+              service agreed to with respect to the occupancy of the premises by the tenant.
+
+        (2)   A decrease in rent under subsection (1) shall be proportionate to the decrease of the services.
+
+29. Failure to pay rent by tenant and claims for rent arrears
+        (1)   Where a tenant defaults in paying rent and is in arrears, the landlord may apply to a court of
+              competent jurisdiction to recover the rent owed.
+
+        (2)   Where the default in subsection (1) continues for a period of more than thirty days, the landlord
+              shall be entitled to re-enter the premises and take possession in the presence of an area local
+              council official and the police.
+
+        (3)   The right of re-entry of the landlord referred to in subsection (2) shall not prejudice the right of the
+              landlord to recover the rent arrears.
+
+        (4)   The Judicature (Small Claims Procedure) Rules apply to any application to recover rent arrears
+              under this section but only if the claim does not exceed the amount specified for small claims in the
+              Judicature (Small Claims Procedure) Rules.
+
+                                                Security deposit
+
+30. Security deposit
+        (1)   A landlord shall require a tenant to pay a security deposit for the purposes of securing the
+              performance by the tenant of the obligations of the tenant under the tenancy.
+
+        (2)   A landlord shall not require more than one security deposit or require the payment of, or receive,
+              under a security deposit, an amount exceeding the rent payable for one month’s occupancy of the
+              premises to which the agreement relates or one-twelfth of the rent for one year’s occupancy of the
+              premises to which the agreement relates, whichever is the esser.
+
+        (3)   The landlord shall specify to the tenant in writing the terms and conditions under which the
+              security deposit or any part of the security deposit may be withheld by the landlord upon
+              termination of the tenancy.
+
+        (4)   Without limiting the general effect of subsection (3), a security deposit shall not be withheld on
+              account of normal wear and tear resulting from ordinary use of the premises.
+
+        (5)   The landlord shall provide the tenant with a written receipt for the security deposit.
+
+        (6)   Where, during a tenancy, the status of landlord is transferred to another person, the security
+              deposit shall be transferred and the successor landlord shall notify the tenant of the change.
+
+        (7)   Where, during the tenancy, the premises occupied by the tenant are foreclosed upon and the
+              deposit of the tenant is not transferred to the successor owner after the foreclosure sale or other
+              transfer of the property from the foreclosed-upon owner to a successor, the foreclosed-upon owner
+              shall promptly refund the full deposit to the tenant immediately after the foreclosure sale or
+              transfer.
+
+                Part VII – Assignment of tenancy and subleasing of premises
+
+31. Assignment of tenancy by tenant
+        (1)   A tenant shall not assign a tenancy without the written consent of the landlord.
+
+        (2)   A landlord shall not unreasonably withhold consent to the assignment of a tenancy.
+
+32. Subletting of premises
+        (1)   A tenant shall not sublease the whole or any part of the premises without the written consent of the
+              landlord.
+
+        (2)   A landlord shall not unreasonably withhold consent to the subleasing of the whole or any part of
+              the premises.
+
+33. Invalid assignment and subletting of premises
+      An assignment of a tenancy or subleasing of the whole or any part of the premises by a tenant without the
+      consent of the landlord is invalid and immediately terminates the tenancy.
+
+                                  Part VIII – Termination of tenancy
+
+                                  Termination by landlord or tenant
+
+34. Termination of tenancy to be in accordance with Act
+      A tenancy shall not be terminated except in accordance with this Act, or with the tenancy agreement.
+
+35. Termination by agreement
+        (1)   A tenancy may be terminated by agreement of the landlord and tenant.
+
+        (2)   An agreement under subsection (1) shall state the date on which the tenant shall vacate the
+              premises.
+
+36. Termination by vacation of premises with consent of landlord
+        (1)   A tenancy terminates where the tenant vacates the rented premises with the consent of the
+              landlord.
+
+        (2)   The consent given under subsection (1) may be written or oral and once given is irrevocable.
+
+37. Termination of tenancy for specified time or event
+        (1)   Where a tenancy is—
+
+               (a) for a fixed term, the tenancy terminates on the date specified for termination; or
+
+               (b)   stated to terminate on the occurrence of an event, the tenancy terminates on the occurrence
+                     of that event.
+
+        (2)   A tenant whose tenancy terminates under subsection (1) shall immediately vacate the premises.
+
+38. Termination after notice
+        (1)   A tenancy terminates where a landlord or tenant gives notice of termination of the tenancy in
+              accordance with this Act, or with terms of the tenancy agreement.
+
+        (2)   In a residential tenancy, notice of termination of a tenancy required under this Act shall be as
+              follows—
+
+               (a) in the case of a weekly tenancy, seven days’ notice;
+
+               (b)   in the case of a monthly tenancy, thirty days’ notice; and
+
+               (c)   in the case of a tenancy from year to year, sixty days’ notice.
+
+        (3)   A landlord and tenant may agree to a period of notice exceeding the period specified in subsection
+              (2).
+
+        (4)   A term or condition in a tenancy providing for a lesser period of notice than that specified in
+              subsection (2) is void.
+
+        (5)   The issuance of notice of termination under subsection (1) shall not extinguish the duties and
+              rights of a landlord or tenant under the tenancy agreement in respect of which such notice has been
+              issued.
+
+39. Termination by abandonment
+        (1)   A tenancy is considered terminated by abandonment where the tenant leaves the premises
+              permanently without terminating the tenancy agreement.
+
+        (2)   Termination by abandonment shall not prejudice the rights of the landlord to recover accrued rent
+              and charges.
+
+        (3)   Where the landlord has reasonable cause to believe that the tenant has abandoned the premises,
+              the landlord shall give notice of fourteen days to the tenant of the intention to terminate the
+              tenancy.
+
+        (4)   Where the tenant does not reply to the notice or does not give a satisfactory explanation after the
+              fourteen days’ notice referred to in subsection (2), the tenancy terminates.
+
+        (5)   The Minister may, by regulations, prescribe the procedure for dealing with abandoned tenancies.
+
+        (6)   For the purposes of subsection (1), a tenant is taken to have permanently abandoned the premises
+              where—
+
+               (a) the tenant has been absent from the premises for at least thirty consecutive days without
+                   notifying the landlord and the rent has not been paid; or
+
+               (b)   at least fifteen days have passed since the rent was due and the rent remains unpaid and it
+                     appears to the landlord that the tenant has vacated the premises without the rent being paid.
+
+40. Termination upon death of sole tenant
+        (1)   Where a tenant who is a single occupant of premises dies, the tenancy terminates at the earliest of
+              the following dates—
+
+               (a) twenty-eight days after the landlord is given written notice of the
+
+                     death of the tenant by the legal personal representative or next of kin of the tenant;
+
+               (b)   twenty-eight days after the landlord has given notice to vacate to the legal personal
+                     representative or next of kin of the tenant;
+
+               (c)   a date agreed in writing between the landlord and the legal personal representative or next
+                     of kin of the tenant; or
+
+               (d)   the date specified as the termination date of the tenancy by the court on the application of
+                     the landlord under subsection (2).
+
+        (2)   Where a landlord is unable to give notice to vacate under subsection (1)(b), the landlord may apply
+              to the court for an order to terminate the tenancy.
+
+41. Tenant or landlord may challenge termination in court
+        (1)   A tenant or landlord may challenge a termination of the tenancy agreement in court.
+
+        (2)   Where the court finds that a termination challenged under this section was not justified or is not in
+              accordance with this Act, the court may order the reinstatement of the tenancy or award damages
+              or such other remedy as the court considers appropriate.
+
+        (3)   A tenant is liable to pay rent while he or she challenges a termination notice.
+
+        (4)   A tenant or landlord who is dissatisfied with the decision of the court under subsection (2) may
+              appeal to the appropriate court.
+
+42. Termination notice not affected by certain factors
+      A notice of termination of a tenancy by a landlord is not affected by the landlord’s acceptance of arrears
+      of rent or compensation for the use or occupation of the premises after the landlord gives the notice of
+      termination of the tenancy to the tenant.
+
+43. Refusal by tenant to vacate premises after receipt of notice of termination
+      Where a tenant does not vacate the premises on the date specified in the notice of termination or upon
+      breach, the landlord may re-enter the premises and take possession in the presence of the area local
+      council officials and the police.
+
+                          Part IX – Vacation and eviction from premises
+
+44. Vacation of premises on termination of tenancy
+      Where a tenancy is terminated in accordance with this Act, the tenant shall vacate the premises on the
+      date specified in the notice of termination or such other date specified for vacation of the premises.
+
+45. Unlawful eviction of tenant
+        (1)   A landlord shall not, except in accordance with this Act, or the terms of the tenancy agreement,
+              evict a tenant from the premises or require, compel or attempt to require or compel the tenant to
+              vacate the premises.
+
+        (2)   Where a landlord evicts a tenant from the premises or requires, compels or attempts to require or
+              compel the tenant to vacate the premises in contravention of this Act or the terms of the tenancy
+              agreement, the tenant shall be entitled to seek appropriate relief from court, or relief equivalent to
+              three months’ rent payable.
+
+        (3)   Where a court finds a landlord liable under subsection (2), the court shall, in addition to any penalty
+              imposed, order the landlord to compensate the tenant for any damages arising from the unlawful
+              eviction.
+
+                                               Part X – General
+
+46. Landlord may charge fees for extra services
+        (1)   A landlord may charge a service fee for any extra services provided to a tenant including services
+              relating to security, conservancy, sanitation and other amenities.
+
+        (2)   For the purposes of subsection (1), “a service fee” means an amount payable by a tenant as part of
+              or in addition to the rent which is payable, directly or indirectly, for services, repairs, maintenance,
+              improvements or insurance or the landlord’s costs of management, and a service fee varies or may
+              vary according to the relevant costs.
+
+        (3)   The relevant costs referred to in subsection (2) are the costs or estimated costs incurred or to be
+              incurred by or on behalf of the landlord in connection with the matters for which the service fee is
+              payable.
+
+47. Reimbursement of costs by landlord or tenant
+        (1)   Where a landlord pays for anything for which the tenant is liable under this Act, the tenant shall
+              reimburse the landlord within fourteen days after receiving a written request for reimbursement
+              together with a copy of the receipt or other evidence of the costs incurred by the landlord.
+
+        (2)   Where a tenant pays for anything for which the landlord is liable under this Act, the landlord shall
+              reimburse the tenant within fourteen days after receiving a written request for reimbursement and
+              a copy of the receipt ir other evidence of payment.
+
+        (3)   Subsections (1) and (2) do not apply if there is an agreement to the contrary.
+
+48. Entry of rented premises by landlord
+        (1)   A landlord has a right to enter the premises together with any person who is necessary to achieve
+              the purpose of the entry after giving the tenant written notice of at least twenty hours.
+
+        (2)   A landlord who enters premises in contravention of subsection (1) commits an offence and is liable,
+              on conviction, to a fine not exceeding one hundred currency points.
+
+        (3)   Notwithstanding subsection (1), in case of an emergency, a landlord may enter the premises
+              without notice.
+
+49. Landlord and tenant may act through agent
+        (1)   A landlord or tenant may appoint an agent to effect any transactions that may be required under
+              this Act.
+
+        (2)   Where a landlord or tenant appoints an agent, the particulars and the scope of the appointment
+              shall be in writing and shall be made available to the tenant or landlord, as the case may be.
+
+        (3)   For purposes of subsection (1), the transactions that an agent may perform include—
+
+               (a) marketing the premises;
+
+               (b)   drawing up tenancy agreements;
+
+               (c)   collection of rent;
+
+               (d)   arranging repairs and maintenance; or
+
+               (e)   managing and maintaining common areas.
+
+50. Power to amend Schedule 1
+      The Minister may, by statutory instrument, with the approval of Parliament, amend Schedule 1 to this Act.
+
+51. Regulations
+        (1)   The Minister may, by statutory instrument, make regulations generally for the better carrying into
+              effect of the provisions of this Act.
+
+        (2)   Without limiting the general effect of subsection (1), regulations made under this section may—
+
+               (a) prescribe codes of practice to be complied with by landlords and tenants;
+
+               (b)   prescribe the forms to be used for purposes of this Act;
+
+               (c)   regulate the use of agents in landlord tenant relations, including the licensing of agents, and
+                     the duties and responsibilities of agents;
+
+               (d)   regulate mixed-use premises, including specifying the nature of businesses that may be
+                     carried out in premises which are also used for human habitation;
+
+               (e)   prescribe penalties in respect of the contravention of the regulations not exceeding seven
+                     thousand two hundred currency points or imprisonment for a term of three years, or both;
+
+                (f) prescribe penalties for continuing and repeated offences; and
+
+               (g) prescribe fees for anything done under this Act.
+
+                                           Schedule 1 (Section 2,50)
+
+                                                Currency point
+A currency point is equivalent to twenty thousand shillings.
+
+                                       Schedule 2 (Section 3(2))

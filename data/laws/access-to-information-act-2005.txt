@@ -1,0 +1,1004 @@
+[Act 6/2005; S.I. 11/2006; Act 17/2023]
+
+                                             Part I – Preliminary
+
+  1. Application of Act
+        (1)    This Act applies to all information and records of Parliament, Ministries, departments of
+               Government, local governments, statutory corporations and bodies, commissions and other
+               Government organs and agencies, unless specifically exempted by this Act.
+
+        (2)    This Act does not apply to—
+
+                (a) Cabinet records and the records of the committees of Cabinet;
+
+                (b)   records of court proceedings before the conclusion of the case.
+
+        (3)    Nothing in this Act detracts from the provisions of any other written law giving a right of access to a
+               record of a public body.
+
+  2. Purpose of Act
+       The purpose of this Act is—
+
+        (a) to promote an efficient, effective, transparent and accountable Government;
+
+        (b)    to give effect to Article 41 of the Constitution by providing the right to access to information held
+               by organs of the State other than exempt records and information;
+
+         (c)   to protect persons disclosing evidence of contravention of the law, maladministration or corruption
+               in Government bodies;
+
+        (d)    to promote transparency and accountability in all organs of the State by providing the public with
+               timely, accessible and accurate information; and
+
+        (e)    to empower the public to effectively scrutinise and participate in Government decisions that affect
+               the public.
+
+ 3. Interpretation
+      In this Act, unless the context otherwise requires—
+
+      “court” means the chief magistrates’ court or the High Court;
+
+      “currency point” has the value assigned to it in the Schedule to this Act;
+
+      “information” includes written, visual, aural and electronic information;
+
+      “information officer” means the chief executive of a public body;
+
+      “manual” means the manual of functions of, and index of records held by a public body, compiled under
+      section 6;
+
+      “Minister” means the Minister to whom the functions of the Minister under this Act have for the time
+      being been assigned by the President;
+
+      “prescribed” means prescribed by regulations made under section 46;
+
+      “privacy” means the right of a person to keep his or her matters and relationships secret;
+
+      “proprietary information” means information relating to any manufacturing process, trade secret,
+      trademark, copyright, patent or formula protected by law or by international treaty to which Uganda is a
+      party;
+
+      “public body” includes a Government Ministry, department, statutory corporation, Authority or
+      Commission;
+
+      “record” means any recorded information, in any format, including an electronic format in the possession
+      or control of a public body, whether or not that body created it;
+
+      “relevant authority” means the Minister responsible for that public body or the person designated in
+      writing by that Minister;
+
+      “request for access” means a request for access to a record of a public body under section 10;
+
+      “Rules Committee” means the Rules Committee established by section 40 of the Judicature Act;
+
+      “security” means the protection of Uganda against threats such as crime, criminals and attacks by foreign
+      countries;
+
+      “sovereignty” means the supremacy of the State;
+
+      “third party”, in relation to a request for access, means any person, including but not limited to
+      the government of a foreign State, an international organisation or an organ of that government or
+      organisation, other than—
+
+        (a) the person requesting the record; and
+
+       (b)    a public body.
+
+                               Part II – Access to information and records
+
+ 4. Right of access
+        (1)   Every citizen has a right of access to information and records in the possession of the State or
+              any public body, except where the release of the information is likely to prejudice the security or
+              sovereignty of the State or interfere with the right to the privacy of any other person.
+
+        (2)   For the avoidance of doubt, information and records to which a person is entitled to have access
+              under this Act shall be accurate and up-to-date so far as is practicable.
+
+ 5. Access to information and records
+      A person’s right of access is, subject to this Act, not affected by—
+
+        (a) any reason the person gives for requesting access; or
+
+       (b)    the information officer’s belief as to what the person’s reasons are for requesting access.
+
+ 6. Manual of functions and index of records of public body
+        (1)   Within six months after the commencement of this section or the coming into existence of a public
+              body, the information officer of the public body shall compile a manual containing—
+
+               (a) a description of the public body and the functions of the public body;
+
+               (b)    the postal and street address, phone and fax number and electronic mail address of the
+                      information officer of the body and of every deputy information officer;
+
+               (c)    the address of the established office of the public body at which the public may make
+                      requests and obtain information;
+
+               (d)    sufficient detail, including the nature of all formal and informal procedures available to
+                      facilitate a request for access;
+
+               (e)    a description of the subjects on which the body holds records and the categories of records
+                      held on each subject;
+
+                (f) the most recent notice published under section 7, if any, regarding the categories of records
+                    of the body which are available without a person having to request access under this Act;
+
+               (g) a description of the services available to members of the public from the body and how to
+                   gain access to those services;
+
+               (h) a description of any arrangement or provision for a person by consultation, making
+                   representations or otherwise, to participate in or influence—
+
+                        (i)   the formulation of policy; or
+
+                       (ii)   the exercise of the powers or performance of duties by the body;
+
+                (i)   a description of all remedies available in respect of an act or a failure to act by the body; and
+
+                (j) such other information as may be prescribed.
+
+        (2)   A public body shall update and publish its manual at least once in every two years.
+
+        (3)   Each manual shall be made available as prescribed.
+
+  7. Disclosure and automatic availability of certain records
+      An information officer shall, once in every two years, publish a description of—
+
+        (a) the categories of records of the public body that are automatically available without a person
+            having to request access under this Act, including the categories available—
+
+                (i)   for inspection under a written law other than this Act;
+
+               (ii)   for purchase or copying from the public body; and
+
+              (iii)   from the public body free of charge; and
+
+       (b)    how to obtain access to those records.
+
+ 8. Information in directory
+      The Minister shall ensure the publication in every directory issued for general use by the public of the
+      postal and street address, phone and fax number and electronic mail address of the information officer of
+      every public body.
+
+ 9. Information officers
+      For the purposes of this Act, the chief executive of each public body shall be responsible for ensuring that
+      records of the public body are accessible under this Act.
+
+10. Form of request
+        (1)   A request for access to a record or information shall be in writing in the prescribed form to the
+              information officer of the public body in control of the record or information required and shall
+              provide sufficient details to enable an experienced employee of the public body to identify the
+              record or information.
+
+        (2)   The form for a request of access prescribed under subsection (1) shall require the person requesting
+              access—
+
+               (a) to provide sufficient particulars to enable the information officer to identify—
+
+                       (i)   the record or records requested; and
+
+                      (ii)   the person requesting the information;
+
+               (b)   to indicate which applicable form of access referred to in section 19(2) is required;
+
+               (c)   to specify the address of the person requesting the information; and
+
+               (d)   if the request is made on behalf of a person, to state the capacity in which the person
+                     requesting the information is making the request.
+
+        (3)   A person who, because of illiteracy or disability, is unable to make a request for access in
+              accordance with subsection (1) may make that request orally.
+
+        (4)   The information officer of a public body to whom an oral request is made under subsection (3) shall
+              reduce the request to writing in the prescribed form and shall provide a copy of the written request
+              to the person requesting access.
+
+11. Duty to assist persons
+        (1)   Where a person informs the information officer that he or she wishes to make a request for access to
+              a record of—
+
+               (a) the public body of that information officer; or
+
+               (b)   another public body,
+
+              the information officer shall render such reasonable assistance, free of charge, as is necessary to
+              enable that person to comply with section 10.
+
+        (2)   Where a person makes a request for access that does not comply with section 10, the information
+              officer shall not refuse the request because of that non-compliance unless the information officer
+              has—
+
+               (a) notified that person of an intention to refuse the request and stated in the notice—
+
+                       (i)   the reasons for the contemplated refusal; and
+
+                       (ii)   that the information officer or other official identified by the information officer
+                              would assist that person in order to make the request in a form that would remove the
+                              reasons for refusal;
+
+               (b)    given the person a reasonable opportunity to seek the assistance referred to in paragraph (a)
+                      (ii);
+
+               (c)    as far as reasonably possible, furnished the person requesting access with any information,
+                      including information about the records, other than information under Part III of this Act
+                      that would assist the making of the request in that form; and
+
+               (d)    given the person a reasonable opportunity to confirm the request or to alter it to comply with
+                      section 10.
+
+        (3)   When computing any period referred to in section 14(1), the period commencing on the date on
+              which notice is given under subsection (2) and ending on the date on which the person confirms or
+              alters the request for access concerned shall be disregarded.
+
+        (4)   Where it is apparent, on receipt of a request for access, that the request should have been made to
+              another public body, the information officer of the public body receiving the request shall—
+
+               (a) render any assistance necessary to enable the person requesting access to make the request
+                   to the information officer of the appropriate public body; or
+
+               (b)    transfer the request in accordance with section 12, to the appropriate information officer,
+
+              whichever will result in the request being dealt with quickly.
+
+12. Transfer of request
+        (1)   Where a request for access is made to the information officer of a public body in respect of which—
+
+               (a) the record is not in the possession or under the control of that body but is in the possession
+                   of another public body; or
+
+               (b)    the subject matter of the record is more closely connected with the functions of another
+                      public body than those of the public body of the information officer to whom the request is
+                      made,
+
+              the information officer to whom the request is made shall, as soon as reasonably possible, but in
+              any event within twenty-one days after the request is received—
+
+                (i)   transfer the request to the information officer of the other public body; and
+
+               (ii)   if the public body of the information officer to whom the request is made is in possession
+                      of the record and considers it is helpful to do so to enable the information officer of the
+                      other public body to deal with the request, send the record or a copy of the record to that
+                      information officer.
+
+        (2)   Upon the transfer of a request for access, the information officer making the transfer shall
+              immediately notify the person requesting access of—
+
+               (a) the transfer;
+
+               (b)    the reasons for the transfer; and
+
+               (c)    the period within which the request shall be dealt with.
+
+13. Records that cannot be found or do not exist
+        (1)   Where a request for access is made to the information officer of a public body in respect of which—
+
+               (a) the record is not in the possession or under the control of the public body of that information
+                   officer and the information officer does not know which public body has possession or
+                   control of the record; or
+
+               (b)    all reasonable steps have been taken to find a record requested; and
+
+                (c)   there are reasonable grounds for believing that the record—
+
+                        (i)   is in the possession of the public body but cannot be found; or
+
+                       (ii)   does not exist,
+
+              the information officer shall, in writing, notify the person that it is not possible to give access to
+              that record.
+
+        (2)   The notice referred to in subsection (1) shall give a full account of all steps taken to find the
+              record in question or to determine whether the record exists, as the case may be, including all
+              communications with every person who conducted the search on behalf of the information officer.
+
+        (3)   For the purposes of this Act, the notice under subsection (1) is to be regarded as a decision to refuse
+              a request for access to the record.
+
+        (4)   Where, after notice is given under subsection (1), the record in question is found, the person
+              requesting access shall be given access to the record unless access is refused on a ground for refusal
+              under Part III of this Act.
+
+14. Deferral of access
+        (1)   Where the information officer determines that access may be granted to a record but that record—
+
+               (a) is to be published within ninety days after the receipt or transfer of the request or such
+                   further period as is reasonably necessary for printing the record for the purpose of publishing
+                   it;
+
+               (b)    is required by law to be published but is yet to be published; or
+
+                (c)   has been prepared for submission to a public body, public officer or a particular person but is
+                      yet to be submitted,
+
+              the information officer may defer giving access to the record.
+
+        (2)   Where access to a record is deferred under subsection (1), the information officer shall notify the
+              person concerned—
+
+               (a) that he or she may, within twenty-one days after that notice is given, make representations
+                   to the information officer why the record is required before the publication or submission;
+                   and
+
+               (b)    of the likely period for which access is to be deferred.
+
+        (3)   Where a person makes representations under subsection (2)(a), the information officer shall, after
+              due consideration of those representations, grant the request for access only if there are reasonable
+              grounds for believing that the person will suffer substantial prejudice if access to the record is
+              deferred for the period referred to in subsection (2)(b).
+
+15. Decision on request and notice
+        (1)   The information officer to whom a request for access is made or transferred shall, subject to section
+              16, as soon as reasonably possible, but in any event within twenty-one days after the request is
+              received—
+
+               (a) determine in accordance with this Act, whether to grant the request; and
+
+               (b)   notify the person requesting access of the decision and, if the person stated as required by
+                     section 10(2)(b), that he or she wishes to be informed of the decision in any other manner,
+                     inform him or her in that manner if it is reasonably possible.
+
+        (2)   Where the request for access is granted, the notice under subsection (1)(b) shall state—
+
+               (a) the fee, if any, to be paid upon access;
+
+               (b)   the form in which access will be given; and
+
+               (c)   that the person requesting access may lodge an internal appeal or an application with the
+                     court, as the case may be, against the access fee to be paid or the form of access granted and
+                     the procedure, including the period, for lodging the internal application or appeal, as the
+                     case may be.
+
+        (3)   Where the request for access is refused, the notice under subsection (1)(b) shall—
+
+               (a) state adequate reasons for the refusal, including the provisions of this Act relied upon;
+
+               (b)   exclude from any reasons stated under paragraph (a), any reference to the content of the
+                     record; and
+
+               (c)   state that the person may lodge an internal appeal or an application with the court, as the
+                     case may be, against the refusal of the request and the procedure, including the period, for
+                     lodging the internal application or appeal as the case may be.
+
+16. Extension of period to deal with request
+        (1)   The information officer to whom a request for access has been made or transferred, may extend the
+              period of twenty-one days referred to in section 15(1), in this section referred to as the “original
+              period”, once for a further period of not more than twenty-one days, if—
+
+               (a) the request is for a large number of records or requires a search through a large number
+                   of records and compliance with the original period would unreasonably interfere with the
+                   activities of the public body concerned;
+
+               (b)   the request requires a search for records in, or collection of the records from, an office of the
+                     public body not situated in the same city, town or location as the office of the information
+                     officer that cannot reasonably be completed within the original period;
+
+               (c)   more than one of the circumstances contemplated in paragraphs (a) and (b) exist in respect
+                     of the request, making compliance with the original period not reasonably possible; or
+
+               (d)   the person requesting for the record consents in writing to the extension.
+
+        (2)   Where a period is extended under subsection (1), the information officer shall, as soon as
+              reasonably possible, but in any event within twenty-one days, after the request is received or
+              transferred, notify the person requesting the record of the extension.
+
+        (3)   A notice given under subsection (2) shall state—
+
+               (a) the period of the extension;
+
+               (b)   adequate reasons for the extension, including the provisions of this Act relied upon; and
+
+               (c)   that the person may lodge an internal appeal or an application with a court, as the case may
+                     be, against the extension, and the procedure, including the period, for lodging the internal
+                     appeal or application, as the case may be.
+
+17. Deemed refusal of request
+      Where an information officer fails to give the decision on a request for access to the person concerned
+      within the period contemplated under section 15, the information officer is, for the purposes of this Act,
+      regarded as having refused the request.
+
+18. Severability
+        (1)   Where a request for access is made for a record containing information which is required or
+              authorised to be refused under Part III of this Act, then every part of the record which does not
+              contain any such information shall be disclosed notwithstanding any other provision of this Act.
+
+        (2)   Where a request for access to—
+
+               (a) a part of a record is granted; and
+
+               (b)   the other part of the record is refused,
+
+              in accordance with subsection (1), section 15(2) applies to paragraph (a) of this subsection and
+              section 15(3) applies to paragraph (b) of this subsection.
+
+19. Access and forms of access
+        (1)   Where a person has been notified under section 15(1) that the request for access has been granted,
+              that person shall, subject to subsections (3) and (10)—
+
+               (a) where an access fee is payable, upon payment of that fee; or
+
+               (b)   where no access fee is payable, immediately,
+
+              be given access in the applicable forms referred to in subsection (2) as the person indicated in the
+              request for access.
+
+        (2)   The forms of access to a record in respect of which a request of access has been granted are—
+
+               (a) if the record is in written or printed form, by supplying a copy of the record or by making
+                   arrangements for the inspection of the record;
+
+               (b)   if the record is not in written or printed form—
+
+                       (i)   in the case of a record from which visual images or printed transcriptions of those
+                             images are capable of being reproduced by means of equipment which is ordinarily
+                             available to the public body concerned, by making arrangements to view those images
+                             or be supplied with copies or transcriptions of them;
+
+                      (ii)   in the case of a record in which words or information are recorded in a manner that
+                             they are capable of being reproduced in the form of sound by equipment which is
+                             ordinarily available to the public body concerned—
+
+                              (A)   by making arrangements to hear those sounds; or
+
+                              (B)   if the public body is capable of producing a written or printed transcription
+                                    of those sounds by the use of equipment which is ordinarily available to it, by
+                                    supplying that transcription;
+
+                      (iii)   in the case of a record which is held on computer, or in electronic or machine-readable
+                              form, and from which the public body concerned is capable of producing a printed
+                              copy of—
+
+                               (A)   the record, or a part of it; or
+
+                               (B)   information derived from the record,
+
+                              by using computer equipment and expertise ordinarily available to the public body, by
+                              supplying such a copy;
+
+                      (iv)    in the case of a record available or capable of being made available in computer
+                              readable form, by supplying a copy in that form; or
+
+                       (v) in any other case, by supplying a copy of the record.
+
+        (3)   Where a person has requested access in a particular form, access shall, subject to section 17, be
+              given in that form, unless to do so would—
+
+               (a) interfere unreasonably with the effective administration of the public body concerned;
+
+               (b)   be detrimental to the preservation of the record; or
+
+               (c)   amount to an infringement of copyright not owned by the State or the public body
+                     concerned.
+
+        (4)   Where a person has requested access in a particular form and for a reason referred to in subsection
+              (3), access in that form is refused but access is given in another form, the fee charged may not
+              exceed what would have been charged if the person had been given access in the form requested.
+
+        (5)   Where a person with a disability is prevented by that disability from reading, viewing or listening to
+              the record concerned in the form in which it is held by the public body concerned, the information
+              officer shall, if that person so requests, take reasonable steps to make the record available in a form
+              in which it is capable of being read, viewed or heard by that person.
+
+        (6)   Where access to a record is to be given to a person with a disability and the person requests that
+              access to be given in an alternative format, a copy of the record shall be given in an alternative
+              format—
+
+               (a) immediately, if the record exists in the alternative format that is acceptable to that person;
+                   or
+
+               (b)   within a reasonable period, to allow the public body to prepare or cause to be prepared the
+                     alternative format, unless the making of the alternative format is considered outrageously
+                     expensive compared to the information required.
+
+        (7)   Where a record is made available in accordance with subsection (5), the person shall not be required
+              to pay an access fee which is more than the fee which that person would have been required to pay,
+              but for the disability.
+
+        (8)   Where a record is made available in terms of this section to a person for inspection, viewing or
+              hearing, that person may make copies of, or transcribe the record using his or her equipment,
+              unless to do so would—
+
+               (a) interfere unreasonably with the effective administration of the public body concerned;
+
+               (b)   be detrimental to the preservation of the record; or
+
+               (c)   amount to an infringement of copyright not owned by the State or the public body
+                     concerned.
+
+        (9)   Where this section requires the supply to a person of a copy of a record, the copy shall, if so
+              requested by that person, be supplied by posting it to that person.
+
+      (10) Where an internal appeal or an application to the court, as the case may be, is lodged against
+           the granting of a request for access to a record, access to the record may be given only when the
+           decision to grant the request is finally confirmed.
+
+20. Access to health or other records
+      An information officer shall refuse access to health records, the disclosure of which would constitute an
+      invasion of personal privacy.
+
+21. Preservation of records
+      Where the information officer receives a request for access to records or information, he or she shall
+      ensure that the records or information concerned are properly preserved until the request is met and
+      where there is an appeal, until all the procedures for appeal are exhausted.
+
+                                    Part III – Exemption from access
+
+22. Limitation of application of Part
+      A provision of this Part under which a request for access to a record is made may not be construed as—
+
+        (a) limited in its application by any other such provision of this Part in terms of which a request for
+            access to a record shall or may or may not be refused; and
+
+       (b)    not applying to a particular record by reason that another provision of this Part also applies to that
+              record.
+
+23. Access subject to conditions
+        (1)   A person is entitled to access information or a record of a public body if that person complies with
+              all the requirements in this Act relating to a request for access to that information or record; and
+              access to that information or record is not prohibited by this Part.
+
+        (2)   A request made under subsection (1) may be for information or records containing personal
+              information relating to the person requesting the information.
+
+24. Minutes of Cabinet and of its committees
+        (1)   Subject to subsection (2), the minutes of the meetings of Cabinet and its committees shall not be
+              accessible to any person other than an authorised public officer.
+
+        (2)   Notwithstanding subsection (1), the Minister may by regulations made under section 46, prescribe
+              the categories of records which shall or may be released after the expiration of seven years, fourteen
+              years and twenty-one years respectively after the record came into existence.
+
+25. Protection of information relating to privacy of person
+        (1)   Subject to subsection (2), an information officer may refuse a request for access if its disclosure
+              would involve the unreasonable disclosure of personal information about a person, including a
+              deceased individual.
+
+        (2)   A person shall be granted access to a record referred to in subsection (1) insofar as the record
+              consists of information—
+
+               (a) about a person who has consented in writing to its disclosure to the person requesting the
+                   record;
+
+               (b)   that was given to the public body by the person to whom it relates and the person was
+                     informed by or on behalf of the public body, before it is given, that the information belongs
+                     to a class of information that would or might be made available to the public;
+
+               (c)   that is already publicly available;
+
+               (d)   about a person who is deceased and the person requesting the information is—
+
+                       (i)    the person’s next of kin; or
+
+                      (ii)    making the request with the written consent of the person’s next of kin; or
+
+               (e)   about a person who is or was an official of a public body and which relates to the position or
+                     functions of the person, including, but not limited to—
+
+                       (i)    the fact that the person is or was an official of that public body;
+
+                      (ii)    the title, work address, work phone number and other similar particulars of the
+                              person;
+
+                      (iii)   the classification, salary scale or remuneration and responsibilities of the position
+                              held or services performed by the person; and
+
+                      (iv)    the name of the person on a record prepared by the person in the course of
+                              employment.
+
+26. Protection of commercial information of third party
+        (1)   Subject to subsection (2), the information officer shall refuse a request for access to a record if the
+              record contains—
+
+               (a) proprietary information as defined by section 3;
+
+               (b)   scientific or technical information, the disclosure of which is likely to cause harm to the
+                     interests or proper functioning of the public body; or
+
+               (c)   information supplied in confidence by a third party, the disclosure of which could reasonably
+                     be expected—
+
+                       (i)    to put that third party at a disadvantage in contractual or commercial negotiations; or
+
+                      (ii)    to prejudice that third party in commercial competition.
+
+        (2)   A record may not be refused under subsection (1) insofar as it consists of information—
+
+               (a) that is already publicly available;
+
+               (b)   about a third party who has consented in writing to its disclosure to the person requesting
+                     for it; or
+
+               (c)   about the results of any product, environmental or other investigation supplied to or by, or
+                     carried out by or on behalf of a public body and its disclosure would reveal a serious public
+                     safety, public health or environmental risk.
+
+27. Protection of certain confidential information
+        (1)   Subject to subsection (2), an information officer—
+
+               (a) shall refuse a request for access if the disclosure of the record would constitute an action for
+                   breach of a duty of confidence owed to a third party in terms of an agreement; or
+
+               (b)    may refuse a request for access to a record of the body if the record consists of information
+                      that was supplied in confidence by a third party—
+
+                        (i)   the disclosure of which could reasonably be expected to prejudice the future supply of
+                              similar information, or information from the same source; and
+
+                       (ii)   if it is in the public interest, that similar information or information from the same
+                              source should continue to be supplied.
+
+        (2)   A record may not be refused under subsection (1) insofar as it consists of information—
+
+               (a) that is already publicly available; or
+
+               (b)    about the third party concerned that has consented in writing to its disclosure to the person
+                      requesting it.
+
+28. Protection of safety of persons and property
+      An information officer—
+
+        (a) shall refuse a request for access if the disclosure of the record could reasonably be expected to
+            endanger the life or physical safety of a person; or
+
+       (b)    may refuse a request for access to a record of the body if the disclosure of the record is likely to
+              prejudice or impair—
+
+                (i)   the security of—
+
+                       (A)    a building, structure or system, including, but not limited to a computer or
+                              communication system;
+
+                       (B)    a means of transport; or
+
+                       (C) any other property; or
+
+               (ii)   methods, systems, plans or procedures for the protection of—
+
+                       (A)    a person in accordance with a witness protection scheme;
+
+                       (B)    the safety of the public or any part of the public;
+
+                       (C) the security of property referred to in paragraph (b)(i).
+
+29. Protection of law enforcement and legal proceedings
+        (1)   An information officer—
+
+               (a) shall refuse a request for access to a record if access to that record would deprive a person of
+                   a right to a fair trial;
+
+               (b)    may refuse a request to access if—
+
+                        (i)   the record contains methods, techniques, procedures or guidelines for—
+
+                               (A)   the prevention, detection, curtailment or investigation of a contravention or
+                                     possible contravention of the law; or
+
+                               (B)   the prosecution of alleged offenders, and the disclosure of those methods,
+                                     techniques, procedures or guidelines could reasonably be expected to prejudice
+                                     the effectiveness of those methods, techniques, procedures or guidelines, or
+                                     lead to the circumvention of the law or facilitate the commission of an offence;
+
+                      (ii)   the prosecution of an alleged offender is being prepared or about to commence or
+                             pending and the disclosure of the record could reasonably be expected—
+
+                              (A)   to impede that prosecution; or
+
+                              (B)   to result in a miscarriage of justice in that prosecution; or
+
+                     (iii)   the disclosure of the record is likely to—
+
+                              (A)   prejudice the investigation of a contravention or possible contravention of the
+                                    law which is about to commence or is in progress or, if it has been suspended or
+                                    terminated, is likely to be resumed;
+
+                              (B)   reveal, or enable a person to ascertain, the identity of a confidential source of
+                                    information in relation to the enforcement or administration of the law;
+
+                              (C) result in the intimidation or coercion of a witness, or a person who might be or
+                                  has been called as a witness, in criminal proceedings or other proceedings to
+                                  enforce the law;
+
+                              (D)   facilitate the commission of a contravention of the law, including, but not
+                                    limited, subject to subsection (2), to escape from lawful detention; or
+
+                              (E)   prejudice or impair the fairness of a trial or the impartiality of an adjudication.
+
+        (2)   A record may not be refused under subsection (1)(b)(iii)(D) insofar as it consists of information
+              about the general conditions of detention of persons in custody.
+
+30. Protection of records privileged from production in legal proceedings
+      An information officer shall refuse a request for access if the record is privileged from production in legal
+      proceedings unless the person entitled to the privilege has waived the privilege.
+
+31. Defence, security and international relations
+        (1)   An information officer may refuse a request for access to a record of the body if its disclosure—
+
+               (a) is likely to prejudice the defence, security or sovereignty of Uganda;
+
+               (b)   subject to subsection (3), is likely to prejudice the international relations of Uganda; or
+
+               (c)   would reveal information supplied in confidence by or on behalf of another State or an
+                     international organisation.
+
+        (2)   A record may not be refused under subsection (1)(b) if it came into existence more than twenty
+              years before the request was made.
+
+        (3)   A record contemplated in subsection (1), without limiting the generality of that subsection,
+              includes a record containing information—
+
+               (a) relating to military tactics or strategy or military exercise or operations undertaken in
+                   preparation of hostilities or in connection with the detection, prevention, suppression or
+                   curtailment of subversive or hostile activities;
+
+               (b)   relating to the quality, characteristics, capabilities, vulnerabilities or deployment of—
+
+                       (i)   weapons or any other equipment used for the detection, prevention, suppression or
+                             curtailment of subversive or hostile activities; or
+
+                      (ii)   anything being designed, developed, produced or considered for use as weapons or
+                             such other equipment;
+
+               (c)    relating to the characteristics, capabilities, vulnerabilities, performance, potential,
+                      deployment or functions of—
+
+                        (i)   any military force, unit or personnel; or
+
+                       (ii)   any body or person responsible for the detection, prevention, suppression or
+                              curtailment of subversive or hostile activities;
+
+               (d)    held for the purposes of intelligence relating to—
+
+                        (i)   the defense of Uganda;
+
+                       (ii)   the detection, prevention, suppression or curtailment of subversive or hostile
+                              activities; or
+
+                      (iii)   another state or an international organisation used by or on behalf of Uganda in the
+                              process of deliberation and consultation in the conduct of international affairs;
+
+               (e)    on methods of, and scientific or technical equipment for, collecting, assessing or handling
+                      information referred to in paragraph (d);
+
+                (f) on the identity of a confidential source and any other source of information referred to in
+                    paragraph (d);
+
+               (g) on the positions adopted or to be adopted by Uganda, another State or an international
+                   organisation for the purpose of present or future international negotiations; or
+
+               (h) that constitutes diplomatic correspondence exchanged with another State or an
+                   international organisation or official correspondence exchanged with diplomatic missions of
+                   Uganda.
+
+32. Operations of public bodies
+        (1)   An information officer may refuse a request for access—
+
+               (a) if the record contains—
+
+                        (i)   an opinion, advice, report or recommendation obtained or prepared; or
+
+                       (ii)   an account of a consultation, discussion or deliberation that has occurred, including,
+                              but not limited to, minutes of a meeting, for the purpose of assisting to take a decision
+                              in the exercise of a power or performance of a duty conferred or imposed by law; or
+
+               (b)    if the disclosure of the record could reasonably be expected to frustrate the deliberative
+                      process in a public body or between public bodies by inhibiting the—
+
+                        (i)   communication of an opinion, advice, report or recommendation; or
+
+                       (ii)   conduct of a consultation, discussion or deliberation.
+
+        (2)   A record may not be refused in terms of subsection (1) if the record came into existence more than
+              ten years before the request was made.
+
+33. Mandatory disclosure in public interest
+      Notwithstanding any other provision in this Part, an information officer shall grant a request for access to
+      a record of the public body otherwise prohibited under this Part if—
+
+        (a) the disclosure of the record would reveal evidence of—
+
+                (i)   a substantial contravention of, or failure to comply with the law; or
+
+               (ii)   an imminent or serious public safety, public health or environmental risk; and
+
+       (b)    the public interest in the disclosure of the record is greater than the harm contemplated in the
+              provision in question.
+
+                                   Part IV – Third party intervention
+
+34. Notice to third parties
+        (1)   Where an information officer intends to disclose any record requested for that contains or which
+              might contain—
+
+               (a) trade secrets of a third party;
+
+               (b)   financial, commercial, scientific, or technical information that is confidential information
+                     supplied to the public body by the third party;
+
+               (c)   information the disclosure of which could result in material financial loss or gain, prejudice
+                     the competitive position of the third party or interfere with contractual or other negotiations
+                     of the third party,
+
+              the information officer shall, if the third party can be located, within twenty-one days after the
+              request is received, give written notice to the third party of the request and the intention to disclose
+              the record.
+
+        (2)   The third party to whom a notice is required to be given under subsection (1) may waive the
+              requirement; and where the third party consents to the disclosure, the third party shall be deemed
+              to have waived the requirement.
+
+        (3)   A notice given under subsection (1) shall—
+
+               (a) include the intention of the information officer to release the record;
+
+               (b)   include a description of the content of the record, that it belongs to and was supplied by or
+                     relates to the third party; and
+
+               (c)   state that the third party may, within twenty-one days after the notice, make representation
+                     as to why the record should not be disclosed.
+
+        (4)   The information officer may extend the period provided under subsection (3)(c) if the time limit
+              prescribed under section 16 is extended but the extension under this subsection shall not exceed
+              the extension under section 16.
+
+35. Representation by third party
+        (1)   The third party to whom notice is given under section 34 shall make the representation within the
+              period stated in the notice and the information officer shall within twenty-one days of the notice,
+              make a decision whether or not to give access to the record.
+
+        (2)   The representation made under subsection (1) shall be given in writing unless the information
+              officer provides otherwise.
+
+        (3)   The information officer shall give the third party notice of the decision made under subsection (1)
+              and the notice shall include a statement—
+
+               (a) that the third party is entitled to request for a review of the decision; and
+
+               (b)   that the person who requested for access will be given access unless a review is requested.
+
+                                   Part V – Complaints and appeals
+
+36. Complaints to chief magistrate
+      A person may lodge a complaint with the chief magistrate, against the decision of an information officer—
+
+        (a) to refuse a request for access; or
+
+       (b)    taken under section 16(1) or 19(3), in relation to that person.
+
+37. Appeal to court
+      Any person aggrieved by the decision of the chief magistrate under section 34, may, within twenty-one
+      days after the decision is communicated to him or her, appeal to the High Court against the decision of the
+      chief magistrate.
+
+38. Procedure
+      The Rules Committee shall, within six months after the commencement of this Act, make rules of
+      procedure for the courts to regulate the procedure in respect of applications made under sections 34 and
+      39.
+
+39. Disclosure of records by court
+        (1)   Notwithstanding this Act or any other law, a court hearing an appeal against a decision, may
+              examine any record of a public body to which this Act applies, and no such record may be withheld
+              from the court on any grounds except whenever access to information is expressly prohibited by this
+              Act or any other law.
+
+        (2)   The court may not disclose to any person, including the parties to the proceedings concerned, other
+              than the public body referred to in subsection (1)—
+
+               (a) any record of a public body which, on a request for access, may have been refused under this
+                   Act;
+
+               (b)   if the information officer of a public body or the Inspector General of Government in refusing
+                     to grant access to a record refused to confirm or deny the existence or non-existence of the
+                     record, any information as to whether the record exists.
+
+        (3)   The court under subsection (1) may—
+
+               (a) receive representation ex parte;
+
+               (b)   conduct hearings in camera; and
+
+               (c)   prohibit the publication of such information in relation to the proceedings as the court
+                     determines, including information in relation to the parties to the proceedings and the
+                     contents or orders made by the court in the proceedings.
+
+40. Civil proceedings
+        (1)   For the purposes of this Part, proceedings on application are civil proceedings.
+
+        (2)   The rules of evidence applicable in civil proceedings apply to proceedings in an application under
+              this Part.
+
+        (3)   The burden of establishing that—
+
+               (a) the refusal of a request for access; or
+
+               (b)   any decision taken under this Act,
+
+              complies with the provisions of this Act rests on the party claiming that it complies.
+
+41. Decision of court
+      The court hearing an application under section 37 may, in addition to any other order, grant an order—
+
+        (a) confirming, amending or setting aside the decision which is the subject of the application
+            concerned;
+
+       (b)    requiring an information officer to grant or deny access to a record of a public body;
+
+        (c)   requiring the information officer or relevant authority of a public body to take such action or to
+              refrain from taking such action as the court considers necessary within a period mentioned in the
+              order;
+
+       (d)    granting an interim or specific relief, a declaratory order or compensation; or
+
+        (e)   as to costs.
+
+                                          Part VI – Miscellaneous
+
+42. Annual report
+        (1)   Every Minister shall submit an annual report to Parliament on requests for access to records or
+              information made to public bodies under his or her Ministry in relation to the relevant year, and
+              shall indicate whether access was given or not, and if access was not given, state the reasons for
+              denial.
+
+        (2)   For the avoidance of doubt, the annual report referred to in subsection (1) may be included in the
+              annual policy statement of the Ministry.
+
+43. Protection of persons releasing information
+        (1)   A person shall not be subject to any legal, administrative or employment related sanction,
+              regardless of any breach of a legal or employment obligation, for releasing information on
+              wrongdoing, or information which would disclose a serious threat to health, safety or the
+              environment, as long as that person acted in good faith and in the reasonable belief that the
+              information was substantially true and disclosed evidence of wrongdoing or a serious threat to
+              health, safety or the environment.
+
+        (2)   For the purposes of subsection (1), wrongdoing includes the commission of a criminal offence,
+              failure to comply with a legal obligation, a miscarriage of justice, corruption or dishonesty, or
+              maladministration regarding a public body.
+
+44. Protection of officers
+      A public officer, information officer or other person acting on the directions of such a person is not subject
+      to any civil or criminal liability for any act done or omitted to be done in good faith in the exercise or
+      performance of any power or duty under this Act.
+
+45. Offences
+      Any person who with intent to deny a right of access under this Act—
+
+        (a) destroys, damages or alters a record;
+
+       (b)    conceals a record; or
+
+        (c)   falsifies a record or makes a false record,
+
+      commits an offence and is liable, on conviction, to a fine not exceeding two hundred forty currency points
+      or to imprisonment for a term not exceeding three years, or both.
+
+46. Regulations
+        (1)   The Minister may, by statutory instrument, make regulations for—
+
+               (a) any matter which is required or permitted by this Act to be prescribed;
+
+               (b)   any matter relating to the fees including the procedures and guidelines for determining when
+                     such fees should be waived or reduced;
+
+               (c)   any notice required by this Act;
+
+               (d)   forms for requests and places at which forms may be obtained;
+
+               (e)   uniform criteria to be applied by the information officer when deciding which categories of
+                     records are to be made available in terms of section 7;
+
+                (f) prescribing the categories of information that an information officer may refuse to grant
+                    access to under sections 28, 29, 31 and 32;
+
+               (g) any administrative or procedural matter necessary to give effect to this Act.
+
+        (2)   The fee for access to be prescribed by regulations under this section shall be a fee representing the
+              actual cost of retrieval and reproduction of the information.
+
+        (3)   The Minister may prescribe, in the regulations, for the contravention of any of the regulations, a
+              penalty not exceeding two hundred forty currency points or imprisonment for a term not exceeding
+              three years, or both.
+
+47. Power to amend Schedule
+      The Minister may, by statutory instrument, with the approval of Cabinet, amend the Schedule to this Act.
+
+                                         Schedule (Sections 3, 47)
+
+                                                Currency point
+A currency point is equivalent to twenty thousand shillings.
